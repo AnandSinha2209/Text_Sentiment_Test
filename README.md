@@ -18,4 +18,4 @@ Total Code Change along with a few more details and Calulations.
 
 Used Binary Cross Entrol and Sigmoid Functions.
 
-Loss Function: 0.000
+**Loss Function: 0.000**
