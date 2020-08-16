@@ -10,3 +10,12 @@
 8) The  results were as follows :- **Loss: 0.0237(test)      |       Acc: 90.5%(test)**
 9) In the Future we will impliment this and try it again.
 10) This repo can be forked after a mail to me and you are free to contribute to it.
+
+
+###Verison 2
+
+Total Code Change along with a few more details and Calulations.
+
+Used Binary Cross Entrol and Sigmoid Functions.
+
+Loss Function: 0.000
