@@ -19,3 +19,11 @@ Total Code Change along with a few more details and Calulations.
 Used Binary Cross Entrol and Sigmoid Functions.
 
 **Loss Function: 0.000**
+
+
+The Dataabase can be used using the following command :
+
+
+dd.download_file_from_google_drive(
+        file_id='1zfM5E6HvKIe7f3rEt1V2gBpw5QOSSKQz',
+        dest_path=DATA_PATH,
