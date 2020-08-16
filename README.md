@@ -12,7 +12,7 @@
 10) This repo can be forked after a mail to me and you are free to contribute to it.
 
 
-###Verison 2
+<h1>***Version 2***</h1>
 
 Total Code Change along with a few more details and Calulations.
 
