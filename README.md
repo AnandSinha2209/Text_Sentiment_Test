@@ -23,8 +23,12 @@ Used Binary Cross Entrol and Sigmoid Functions.
 
 The Dataabase can be used using the following command :
 
-'''sh
-$ dd.download_file_from_google_drive(
-$         file_id='1zfM5E6HvKIe7f3rEt1V2gBpw5QOSSKQz',
-$         dest_path=DATA_PATH,
-'''
+```sh
+DATA_PATH = 'data/imdb_reviews.csv'
+if not Path(DATA_PATH).is_file():
+    gdd.download_file_from_google_drive(
+        file_id='1zfM5E6HvKIe7f3rEt1V2gBpw5QOSSKQz',
+        dest_path=DATA_PATH,
+    )
+```
+
